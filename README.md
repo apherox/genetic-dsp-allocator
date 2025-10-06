@@ -1,2 +1,2 @@
 # genetic-dsp-allocator
-Allocates DSP to Task using permutation based genetic algorithms
+Allocates DSPs to Tasks using permutation based genetic algorithms
